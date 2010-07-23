@@ -7,7 +7,7 @@ Simple Navigation is a ruby library for creating navigations (with multiple leve
 If you upgrade to version 2.x.x please recheck the updated documentation on http://wiki.github.com/andi/simple-navigation.
 
 Source code:
-  git://github.com/andi/simple-navigation.git
+  git@github.com:resgraph/simple-navigation.git
 
 Documentation: 
   http://wiki.github.com/andi/simple-navigation
